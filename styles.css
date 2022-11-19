@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+h1{
+  font-size: 50px;
+  text-align: center;
+  color: green;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a{
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ text-decoration: none;
+}
+a:hover{
+  color: green;
+}
